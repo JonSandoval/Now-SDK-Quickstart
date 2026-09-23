@@ -189,9 +189,7 @@ If users can't sign in:
 
 1. Check that the plugin is active.
 2. Check that *System OAuth > Application Registry* has an **active** "ServiceNow SDK" record.
-3. If the record is missing, import
-   [`admin/oauth_entity_3b3ca1689f4c52103c50e2318a0a1c7f.xml`](admin/oauth_entity_3b3ca1689f4c52103c50e2318a0a1c7f.xml):
-   on the Application Registry list, right-click the list header and choose *Import XML*.
+
 
 ## Privacy and security
 
